@@ -1,1 +1,1 @@
-This is a git directory in my alx-zero_day repo
+I'm asked to change my README directly from the GitHub website, only this one time.
